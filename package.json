@@ -1,4 +1,4 @@
-{   "name": "stylus - client"
+{   "name": "stylus"
  , "version": "0.54.5" 
   , "scripts": [
       "lib/path.js"
