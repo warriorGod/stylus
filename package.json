@@ -1,4 +1,5 @@
-{   "name": "stylus"
+{   "name": "stylus - client"
+ , "version": "0.54.5", 
   , "scripts": [
       "lib/path.js"
     , "lib/colors.js"
